@@ -1,6 +1,6 @@
-# Hawt XSS Scanner Tool
+# Hawtsauce XSS Scanner Tool
 
-Hawt XSS Scanner Tool, belirli URL'lerde ve bu URL'lerin parametrelerinde XSS (Cross-Site Scripting) güvenlik açıklarını tespit etmek için tasarlanmış çok iş parçacıklı bir araçtır. Araç, hem GET hem de DOM tabanlı XSS açıklarını tespit etmek için çeşitli testler yapar.
+Hawtsauce XSS Scanner Tool, belirli URL'lerde ve bu URL'lerin parametrelerinde XSS (Cross-Site Scripting) güvenlik açıklarını tespit etmek için tasarlanmış çok iş parçacıklı bir araçtır. Araç, hem GET hem de DOM tabanlı XSS açıklarını tespit etmek için çeşitli testler yapar.
 
 ## Özellikler
 
