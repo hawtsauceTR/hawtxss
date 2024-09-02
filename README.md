@@ -25,3 +25,13 @@ Bu araç Python 3.6+ ile uyumludur. Aşağıdaki Python paketlerinin kurulmuş o
 
    ```bash
    pip install requests termcolor beautifulsoup4
+
+## Kullanım
+
+python3 hawtxss.py -u "example.com/search?q=" -l <xsspayloadlist>
+
+python3 hawtxss.py -f "url_list.txt" -l <xsspayloadlist>
+
+URL listelerindeki URL'ler Parametreye Sahip Olmak Zorundadır
+
+Örnek: example.com/search?q= >> Endpointe Sahip "search?q=" Bunun Gibi.
