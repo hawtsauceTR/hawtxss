@@ -28,9 +28,9 @@ Bu araç Python 3.6+ ile uyumludur. Aşağıdaki Python paketlerinin kurulmuş o
 
 ## Kullanım
 
-python3 hawtxss.py -u "example.com/search?q=" -l <xsspayloadlist>
+python3 hawtxss.py -u "example.com/search?q=" -l simple_xss_payloads.txt
 
-python3 hawtxss.py -f "url_list.txt" -l <xsspayloadlist>
+python3 hawtxss.py -f "url_list.txt" -l simple_xss_payloads.txt
 
 URL listelerindeki URL'ler Parametreye Sahip Olmak Zorundadır
 
